@@ -47,7 +47,7 @@ C++を中心に学習したことを記録し、共有しているリポジト�
 - SQL
 
 ## 📈 Stats
-<!--see: https://github.com/vn7n24fzkq/github-profile-summary-cards>
+<!--see: https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumimi&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumimi&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumimi&theme=github)
