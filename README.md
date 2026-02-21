@@ -46,6 +46,8 @@ C++を中心に学習したことを記録し、共有しているリポジト�
 - Ruby
 - SQL
 
+---
+
 ## 📈 Stats
 <!--see: https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumimi&theme=github)
